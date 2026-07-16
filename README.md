@@ -109,6 +109,11 @@ https://github.com/Caveen-Pinto/AQUARIUM-MONITORING-and-ACTUATION-
 
 This project was developed as a Major Project by students of the Department of Electronics and Communication Engineering, Canara Engineering College.
 
+CAVEEN PRASHANTH PINTO
+[SHEIK MAHAMMAD NIZAMUDDIN](https://github.com/SheikNizam/)
+SAMRADH GAMBHIR
+PRANAV T
+
 ### My Contributions
 
 - Literature survey and technical research
